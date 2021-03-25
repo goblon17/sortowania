@@ -5,3 +5,5 @@ Kody źródłowe do sprawozdania, Szymon Kaczmarek 148056
 - [Merge sort](mergeSort.cpp)
 - [Heap sort](heapSort.cpp)
 - [Counting sort](countingSort.cpp)
+
+Folder [testy](testy) zawierający dane wejściowe, na których były mierzone czasy.
