@@ -1,2 +1,2 @@
-# sortowania
-kody źródłowe do sprawozdania
+# Sortowania
+Kody źródłowe do sprawozdania, Szymon Kaczmarek 148056
